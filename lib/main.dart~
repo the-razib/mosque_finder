@@ -1,0 +1,24 @@
+import 'package:flutter/material.dart';
+
+import 'screens/home_screen.dart';
+
+Future<void> main() async {
+  await MosqueService.initialize();
+  runApp(const MosjidFinderApp());
+}
+
+class MosjidFinderApp extends StatelessWidget {
+  const MosjidFinderApp({Key? key}) : super(key: key);
+
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      debugShowCheckedModeBanner: false,
+      title: 'Mosjid Finder',
+      theme: ThemeData(
+        primarySwatch: Colors.green,
+      ),
+      home: const HomeScreen(),
+    );
+  }
+}
