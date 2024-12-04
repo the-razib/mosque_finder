@@ -9,7 +9,7 @@ Mosjid Finder is a Flutter application that helps users discover mosques near th
 - **Mosque Details**: Shows a list of nearby mosques with their names and distances, and allows users to view their locations on the map.
 
 ## Screenshots
-<img src="https://github.com/user-attachments/assets/159939ae-e2e7-444e-9256-545e499e2c32" alt="MuMu12-1" width="275"/>
+<img src="https://github.com/user-attachments/assets/ff6c7d16-c292-4995-8db5-4e0171b39062" alt="MuMu12-1" width="275"/>
 <img src="https://github.com/user-attachments/assets/1e265102-fc35-4303-8be4-c39f0bb8b49a" alt="MuMu12-2" width="275"/>
 <img src="https://github.com/user-attachments/assets/28725310-b460-42ff-aa5c-a54e6015834a" alt="MuMu12-3" width="275"/>
 
